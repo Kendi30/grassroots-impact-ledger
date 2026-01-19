@@ -1,0 +1,33 @@
+# This is a basic workflow to help you get started with Actions
+grassroots-impact-ledger/
+│
+├── README.md
+├── LICENSE
+│
+├── docs/
+│   ├── concept-note.md
+│   ├── theory-of-change.md
+│   ├── use-cases.md
+│   └── data-protection.md
+│
+├── features/
+│   ├── activity-tracking.md
+│   ├── beneficiary-management.md
+│   ├── collaboration.md
+│   ├── service-delivery-tracking.md
+│   ├── advocacy-budget-tracking.md
+│   └── dashboards-reporting.md
+│
+├── schemas/
+│   ├── activity-schema.json
+│   ├── beneficiary-schema.json
+│   └── project-schema.json
+│
+├── roadmap/
+│   ├── mvp.md
+│   └── scaling.md
+│
+└── .gitignore
+
+
+
